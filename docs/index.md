@@ -21,3 +21,4 @@ title: Home
 
 !!! tip "How this site is built"
     This portfolio is generated with **MkDocs + Material theme** and deployed to **AWS S3 + CloudFront**.
+"Last updated: $(date)" 
