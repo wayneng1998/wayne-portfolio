@@ -23,3 +23,4 @@ title: Home
     This portfolio is generated with **MkDocs + Material theme** and deployed to **AWS S3 + CloudFront**.
 "Last updated: $(date)" 
 "Fix workflow at $(date)" 
+"retry $(date)" 
