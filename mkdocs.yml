@@ -1,7 +1,6 @@
 site_name: Wayne Ng Wei‑Yann — Portfolio
 site_description: "Data / Cloud / Software portfolio — projects, experience, and contact."
 site_url: https://example.com
-use_directory_urls: false
 theme:
   name: material
   features:
@@ -14,6 +13,8 @@ theme:
     - scheme: slate
       primary: indigo
       accent: blue
+
+use_directory_urls: false
 nav:
   - Home: index.md
   - Projects: projects.md
