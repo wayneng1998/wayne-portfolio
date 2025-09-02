@@ -18,10 +18,10 @@ use_directory_urls: false
 nav:
   - Home: index.md
   - About: about.md
-  - Certifications: certifications.md
   - Projects: projects.md
   - Experience: experience.md
   - Skills: skills.md
+  - Certifications: certifications.md
   - Contact: contact.md
 
 extra:
