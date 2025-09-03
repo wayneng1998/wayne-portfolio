@@ -11,7 +11,7 @@ title: Certifications
 - **JLPT N1** — Jul 2023  
 - **JLPT N2** — Jul 2019
 - **TOEIC L&R (Score: 935)** — Jul 2025
-- **TOEFL IBT (Score:84)** — Sep 2019   
+- **TOEFL IBT (Score: 84)** — Sep 2019   
 
 
 ## In progress / planned

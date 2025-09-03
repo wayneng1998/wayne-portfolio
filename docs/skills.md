@@ -11,7 +11,7 @@ title: Skills
 - **Databases:** MySQL  
 - **Cloud (hands-on):** AWS S3 (static hosting), CloudFront (CDN, OAC), IAM (least-privilege), GitHub Actions (CI/CD to S3 + invalidation)
 
-## Languages (Human)
+## Languages
 | Language | Proficiency | Notes |
 |---|---|---|
 | Japanese | **JLPT N1** | Business/technical comms |

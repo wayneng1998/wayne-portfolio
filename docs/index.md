@@ -20,7 +20,7 @@ title: Home
 | Other | Git, Linux, Excel/PowerPoint, AWS |
 
 
-- 🔰 **Certifications:** JLPT N1&N2 · TOEIC 935 · TOEFL 82・JDLA for General (AWS — in progress)  
+- 🔰 **Certifications:** JLPT N1&N2 · TOEIC Score: 935 · TOEFL Score: 82・JDLA for General (AWS — in progress)  
 - 🌐 **Languages:** English / Japanese / Mandarin / Cantonese / Bahasa Malaysia / Hokkien  
 - 🤝 **Soft skills:** ownership, communication, troubleshooting, coaching mindset
 
