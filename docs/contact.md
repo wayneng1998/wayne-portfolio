@@ -7,8 +7,8 @@ title: Contact
 - **Email:** [waynengweiyann@gmail.com](mailto:waynengweiyann@gmail.com)
 - **Phone:** +81 080-9699-5169
 - **Location:** Tokyo, Japan
-- **LinkedIn:** https://www.linkedin.com/in/wayne-ng (update)
-- **GitHub:** https://github.com/your-username (update)
+- **LinkedIn:** https://www.linkedin.com/in/wayne-ng
+- **GitHub:** https://github.com/your-username
 
 ---
 

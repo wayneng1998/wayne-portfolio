@@ -66,3 +66,19 @@ Analyze the financial status on Netflix 2024 & Apple TV Programs trends 2025
 Create a portfolio website using Markdown, AWS(S3 & CloudFront)
 
 ---
+
+### Cloud Data Analytics
+
+*Stack:* AWS(S3 & Lambda & Glue & Athena)
+
+Built an end-to-end analytics pipeline on AWS—S3 (data lake), Glue (ETL/Data Catalog), Lambda (ingestion), Athena (SQL)—to analyze retail sales trends
+
+---
+
+### Automated Wi-Fi Bottleneck Detection System
+
+*Stack:* Panda, Pysnmp, Slack
+
+Implemented network traffic analysis and automated threshold alerts for Wi-Fi connections, enabling early detection of bandwidth bottlenecks
+
+---

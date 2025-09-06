@@ -5,10 +5,10 @@ title: Skills
 # Skills
 
 ## Technical
-- **Languages:** Python, JavaScript, Java, Kotlin, R, Matlab
-- **Data/ML:** Pandas, NumPy, scikit-learn, TensorFlow  
+- **Languages:** Python, Java, Kotlin, R, Matlab, JavaScript,
+- **Data/ML:** Pandas, NumPy, Scikit-learn, TensorFlow  
 - **Web/Backend:** React, Node.js, Flask, SpringBoot  
-- **Databases:** MySQL  
+- **Databases:** MySQL, SQLite  
 - **Cloud (hands-on):** AWS S3 (static hosting), CloudFront (CDN, OAC), IAM (least-privilege), GitHub Actions (CI/CD to S3 + invalidation)
 
 ## Languages
