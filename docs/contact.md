@@ -8,7 +8,7 @@ title: Contact
 - **Phone:** +81 080-9699-5169
 - **Location:** Tokyo, Japan
 - **LinkedIn:** https://www.linkedin.com/in/wayne-ng
-- **GitHub:** https://github.com/your-username
+- **GitHub:** https://github.com/wayneng1998
 
 ---
 
