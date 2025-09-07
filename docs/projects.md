@@ -4,7 +4,7 @@ title: Projects
 
 # Projects
 
-Below are a few representative projects. Some code and write‑ups can be linked from GitHub.
+Quick look on my projects. Code and write‑ups can be linked from GitHub.
 
 ### Android ASR/OCR Translator App
 
