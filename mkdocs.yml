@@ -29,7 +29,8 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/wayneng1998
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/wayne-ng (update)
+      link: https://www.linkedin.com/in/wayne-ng-090143294/
+      
 markdown_extensions:
   - admonition
   - toc:
