@@ -11,6 +11,3 @@ title: Contact
 - **GitHub:** https://github.com/wayneng1998
 
 ---
-
-## Credits
-Built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/). Hosted on AWS S3 + CloudFront.
